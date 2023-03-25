@@ -1,5 +1,13 @@
 COLMAP with GPS Position Prior
 ======
+# Warning: there are still bugs, do not use it directly.
+Changed from [colmap-gps](https://github.com/Vincentqyw/colmap-gps), and change some funtions using qvec and tvec to only tvec, then you can use it directly.
+
+Origin
+-----
+
+COLMAP with GPS Position Prior
+======
 
 ## What's New?
 
